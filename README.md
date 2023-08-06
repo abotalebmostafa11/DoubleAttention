@@ -1,0 +1,2 @@
+# DoubleAttention
+TemporalAttentionLayer , FeatureAttentionLayer
